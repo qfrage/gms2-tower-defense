@@ -1,0 +1,1 @@
+sprite_index = spr_bullet_upgrade_locked;

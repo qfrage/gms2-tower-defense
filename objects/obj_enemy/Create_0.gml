@@ -1,0 +1,12 @@
+target_x = 224;//координаты куда летим
+target_y = round(random_range(33,767));//координаты куда летим
+burning = false;//горим или нет
+bleeding = false;
+sp = 0;
+level = 0;
+attacking = false;//когда бьем базу - true
+damage = 0;
+hp = 0;
+award = 0;
+respawn_delay = 0;
+image_xscale = -1;
